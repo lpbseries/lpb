@@ -1,0 +1,2 @@
+1) To install IntelliJ, search for IntelliJ on Google
+2) Download and install IntelliJ IDEA Community Version

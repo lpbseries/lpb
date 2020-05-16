@@ -1,0 +1,2 @@
+1) To install JDK, search for Amazon Corretto 8
+2) Download and install according to your platform (Operating System)
