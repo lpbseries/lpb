@@ -16,3 +16,4 @@ Follow the steps below to load the code base into IntelliJ
 To run the application, follow the steps below
 1) Open up the class in application package, ShopApplication.java, for example.
 2) Click on the play icon next to the main(String[] args) method
+3) Select Run ShopApplication.main
